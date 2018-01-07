@@ -1,0 +1,77 @@
+{
+  "Spices": [
+    "Table Salt",
+    "Kosher Salt",
+    "Pink Himalayan Salt",
+    "Tumeric",
+  	"Garlic",
+  	"Onion",
+  	"Thyme",
+  	"Parsley",
+  	"Ground Black Peppercorn",
+  	"Ground White Peppercorn",
+  	"Basil",
+  	"Oregano",
+  	"Ginger",
+  	"Nutmeg",
+  	"Cinnamon",
+  	"Cumin",
+  	"Paprika",
+  	"Lemon Zest",
+  	"Marjoram",
+  	"Rosemary",
+  	"Coriander",
+  	"White Sugar",
+  	"Brown Sugar",
+  	"Chili Powder",
+  	"Cayenne Pepper"
+  ],
+  
+  "SpiceTypes": {
+    "Salt": [
+        "Table Salt",
+        "Kosher Salt",
+        "Pink Himalayan Salt"
+      ],
+    "Sugar": [
+        "White Sugar",
+        "Brown Sugar"
+      ]
+  },
+  
+  
+  "SpiceMixes": {
+    "Seasoned Salt": [
+      "Salt",
+      "Onion",
+      "Ground Black Peppercorn",
+      "Garlic",
+      "Paprika"
+      ],
+    "Lemon Pepper": [
+      "Lemon Zest",
+      "Black Peppercorns",
+      "Salt"
+    ],
+    "Italian Seasoning": [
+      "Basil",
+      "Thyme",
+      "Majoram",
+      "Rosemary",
+      "Oregano",
+      "Garlic",
+      "Coriander",
+      "White Sugar"
+    ],
+    "Taco Seasoning": [
+      "Chili Powder",
+      "Cumin",
+      "Onion",
+      "Garlic",
+      "Paprika",
+      "Cayenne Pepper",
+      "Oregano"
+    ]
+    
+  }
+}
